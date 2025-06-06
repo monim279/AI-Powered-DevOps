@@ -1,0 +1,11 @@
+# Ignore all hidden files (files starting with a dot)
+.*
+
+# Allow .gitignore itself
+!.gitignore
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore other common IDE settings
+.idea/
